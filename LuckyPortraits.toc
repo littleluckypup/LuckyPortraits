@@ -1,0 +1,10 @@
+## Interface: 120105, 120107, 16001, 50504, 20506, 11509
+## Title: Lucky Portraits
+## Notes: Replaces the default player portrait with custom images, character profiles, and an in-game setup UI.
+## Author: LittleLuckyPup
+## Version: 2.6
+## IconTexture: Interface\AddOns\LuckyPortraits\icon.png
+## SavedVariables: LuckyPortraitsAccountDB
+## SavedVariablesPerCharacter: LuckyPortraitsDB
+
+LuckyPortraits.lua

@@ -1,0 +1,6 @@
+package-as: LuckyPortraits
+
+ignore:
+  - .gitignore
+  - .github
+  - README.md
