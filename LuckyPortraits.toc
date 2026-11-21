@@ -3,6 +3,7 @@
 ## Notes: Replaces the default player portrait with custom images, character profiles, and an in-game setup UI.
 ## Author: LittleLuckyPup
 ## Version: 2.6
+## X-Curse-Project-ID: 1820097
 ## IconTexture: Interface\AddOns\LuckyPortraits\icon.png
 ## SavedVariables: LuckyPortraitsAccountDB
 ## SavedVariablesPerCharacter: LuckyPortraitsDB
